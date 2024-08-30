@@ -4,11 +4,6 @@
 
 /* PIN JOYSTICK */ 
 
-  // const int vxPin = A2;
-  // const int vyPin = A3;
-  // const int VXPin = A0;
-  // const int VYPin = A1;
-
   const int vxPin = A3;
   const int vyPin = A2;
   const int VXPin = A1;
